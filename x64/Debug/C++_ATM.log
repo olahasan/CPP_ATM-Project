@@ -1,0 +1,4 @@
+﻿  C++_ATM.cpp
+C:\Users\olaal\Desktop\Hadhud\C++_ATM\C++_ATM\C++_ATM.cpp(41,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\C++_ATM\C++_ATM\C++_ATM.cpp(202): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  C++_ATM.vcxproj -> C:\Users\olaal\Desktop\Hadhud\C++_ATM\C++_ATM\x64\Debug\C++_ATM.exe
